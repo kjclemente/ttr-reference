@@ -1,0 +1,7 @@
+# Generated output
+dist/
+.astro/
+coverage/
+
+# Managed by npm
+package-lock.json

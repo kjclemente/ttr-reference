@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Astro build output and generated types
+dist/
+.astro/
+
+# Test coverage
+coverage/
+
+# Tool caches
+.cache/
+.vite/
+*.tsbuildinfo
+.eslintcache
+.stylelintcache
+
+# Local environment files (keep example templates)
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Editor metadata (keep shared VS Code configuration)
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
